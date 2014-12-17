@@ -1,7 +1,7 @@
 set serveroutput on size 1000000
 set trimspool on
-set long 5000
-SET LONGCHUNKSIZE  1000
+set long 1000000000 
+SET LONGCHUNKSIZE  1000000000 
 set linesize 200
 set pagesize 50000
 column plan_plus_exp format a80
