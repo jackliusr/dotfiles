@@ -1,3 +1,4 @@
+define _editor=vi
 set serveroutput on size 1000000
 set trimspool on
 set long 1000000000 
